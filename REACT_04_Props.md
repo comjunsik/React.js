@@ -13,7 +13,7 @@
 
 + ### props 설정 방법 ###
 ---
-  - **`<MyComponent name="" />`**
+  - **`<MyComponent name="원준식" />`**
 ---
 <br>
 
