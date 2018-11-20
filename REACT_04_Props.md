@@ -13,7 +13,7 @@
 
 + ### props 설정 방법 ###
 ---
-  - **`<MyComponent name="이동영" />`**
+  - **`<MyComponent name="" />`**
 ---
 <br>
 
